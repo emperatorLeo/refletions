@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+when you create a new repository , your are creating a new empty hidden file which its called with the name (.git) , there's any commits yet . its need to do when you going to start a new proyect to develop.
+
+How is the staging area different from the working directory and the repository? what value do you think ir offers?
+staging area is a middle area where you choose which files are going to be commited , by the other hand working area is in the directory which you are working on it as its name says 
