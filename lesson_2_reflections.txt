@@ -3,3 +3,16 @@ when you create a new repository , your are creating a new empty hidden file whi
 
 How is the staging area different from the working directory and the repository? what value do you think ir offers?
 staging area is a middle area where you choose which files are going to be commited , by the other hand working area is in the directory which you are working on it as its name says 
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can use the staging area to see the diffrents between the documente in my staging area and the las commit that I added.. so it's tell me what changes I've made and I didn't commit yet.
+
+what are some situations when branches would be helpful in keeping your history organized? how would branches help?
+in situations like when you want to add some new features but you don´t know how this new implementation will affect your app.
+The branches help in the way since its allow you to create a diffrent version of your app without change the original.
+
+how do the diagrams help you visualize the branch structure?
+Its help me to get a wide open view of all branches and how my work line is organized 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+its become a new master branch , to understand the flow of the commits and its parents
